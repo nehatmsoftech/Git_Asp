@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Git_Asp", "Git_Asp\Git_Asp.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Git.BE", "Git.BE\Git.BE.csproj", "{D1104EAB-F042-450D-B7C4-C273F17ED428}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Git.DAL", "Git.DAL\Git.DAL.csproj", "{7E1609C9-FB47-4012-85A3-6827E6A0EC29}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D1104EAB-F042-450D-B7C4-C273F17ED428}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1104EAB-F042-450D-B7C4-C273F17ED428}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1104EAB-F042-450D-B7C4-C273F17ED428}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E1609C9-FB47-4012-85A3-6827E6A0EC29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E1609C9-FB47-4012-85A3-6827E6A0EC29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E1609C9-FB47-4012-85A3-6827E6A0EC29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E1609C9-FB47-4012-85A3-6827E6A0EC29}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
